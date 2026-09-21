@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+.venv/
+venv/
+.env
+
+# Archives
+*.zip
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Android / IDE / crash files
+*.hprof
+.gradle/
+.idea/
+.vscode/
+*.iml
+
+# OS
+desktop.ini
+.DS_Store
+
+*.hprof
